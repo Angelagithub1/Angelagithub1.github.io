@@ -1,7 +1,5 @@
 h1{
   font-family: "Times New Roman", Arial, sans-serif;
-  color: Red;
-  text-align: center;
 }
 body{
   font-family: Arial, sans-serif;
@@ -11,10 +9,11 @@ div{
   border-radius: 15px;
   padding: 20px;
   margin: 20px;
-}
-.class{
-  background-color: #EDB8AD;
   
+}
+.NombreYRol{
+  background-color: #EDB8AD;
+  text-align: right;
 }
 h2{
   font-family: Arial, sans-serif;
