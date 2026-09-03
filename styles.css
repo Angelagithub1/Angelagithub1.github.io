@@ -34,6 +34,10 @@ img{
     align-items: center;
     gap: 40px;
 }
+.ListaXBloques{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
 h2{
   font-family: Arial, sans-serif;
   font-size: 30px;
