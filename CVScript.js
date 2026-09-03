@@ -4,7 +4,11 @@ const flecha = document.getElementById("flecha");
 
 flecha.addEventListener("click", function() {
 
-    program.classList.add("out");
-    lengu.classList.remove("out");
-
+    if(program.classList.contains("out")){
+        lengu.classList.add("out");
+        program.classList.remove("out");
+    } else{
+        program.classList.add("out");
+        lengu.classList.remove("out");
+    }
 });
