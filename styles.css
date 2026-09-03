@@ -31,13 +31,20 @@ img{
 }
 .cambiar{
   display: flex;
-    align-items: center;
-    gap: 40px;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+}
+.cambiar button{
+  font-size: 45px;
+  background: none;
+  border: none;
 }
 .ListaXBloques{
   display: grid;
   grid-template-columns: repeat(3, 1fr);
 }
+
 h2{
   font-family: Arial, sans-serif;
   font-size: 30px;
