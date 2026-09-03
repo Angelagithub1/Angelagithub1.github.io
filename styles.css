@@ -1,3 +1,9 @@
 h1{
-  color: darkblue
+  color: darkblue;
+}
+body{
+  font-family: Verdana, sans-serif;
+}
+h2{
+  font-family: Arial, sans-serif;
 }
