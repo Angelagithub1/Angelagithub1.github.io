@@ -1,6 +1,6 @@
-const program = document.getElementByID("Programas");
-const lengu = document.getElementByID("Lenguajes");
-const flecha = document.getElementByID("Flecha");
+const program = document.getElementById("Programas");
+const lengu = document.getElementById("Lenguajes");
+const flecha = document.getElementById("Flecha");
 
 flecha.addEventListener("click", function() {
 
