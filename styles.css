@@ -28,23 +28,9 @@ img{
 }
 .Cambiar{
   display: flex;
-  align-items: center;
-  justify-content: center;
   gap: 40px;
 }
-.Cambiar button{
-  font-size: 45px;
-  background: none;
-  border: none;
-}
-.out{
-  display: none;
-}
 
-.ListaXBloques{
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-}
 h2{
   font-family: Arial, sans-serif;
   font-size: 30px;
