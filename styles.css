@@ -26,6 +26,14 @@ img{
   border-radius: 50%;
   object-fit:cover;
 }
+.out{
+  display: none;
+}
+.cambiar{
+  display: flex;
+    align-items: center;
+    gap: 40px;
+}
 h2{
   font-family: Arial, sans-serif;
   font-size: 30px;
