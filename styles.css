@@ -1,5 +1,6 @@
 body{
   font-family: Arial, sans-serif;
+  font-size: 20px;
 }
 div{
   border: 3px solid #EDB8AD;
@@ -13,10 +14,10 @@ div{
   justify-content: center;
   align-items: center;
   display: flex;
-  font-size: 60px;
+  font-family: "Times New Roman", Arial, sans-serif;
+  font-size: 45px;
 }
 h1{
-  font-family: "Times New Roman", Arial, sans-serif;
   font-size: 80px;
 }
 img{
@@ -27,4 +28,5 @@ img{
 }
 h2{
   font-family: Arial, sans-serif;
+  font-size: 30px;
 }
