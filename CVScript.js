@@ -4,7 +4,7 @@ const flecha = document.getElementById("Flecha");
 
 flecha.addEventListener("click", function() {
 
-    program.classList.add("oculto");
-    lengu.classList.remove("oculto");
+    program.classList.add("out");
+    lengu.classList.remove("out");
 
 });
