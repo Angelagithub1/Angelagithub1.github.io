@@ -16,6 +16,8 @@ div{
   display: flex;
   font-family: "Times New Roman", Arial, sans-serif;
   font-size: 45px;
+}
+#TextoCabecera{
   border: none;
 }
 h1{
