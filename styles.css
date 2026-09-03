@@ -1,15 +1,20 @@
 h1{
-  color: darkblue;
+  font-family: "Times New Roman", Arial, sans-serif;
+  color: Red;
+  text-align: center;
 }
 body{
   font-family: Arial, sans-serif;
-  
 }
 div{
   border: 3px solid #EDB8AD;
   border-radius: 15px;
   padding: 20px;
   margin: 20px;
+}
+.class{
+  background-color: #EDB8AD;
+  
 }
 h2{
   font-family: Arial, sans-serif;
