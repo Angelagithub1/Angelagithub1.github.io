@@ -2,8 +2,11 @@ h1{
   color: darkblue;
 }
 body{
-  font-family: Verdana, sans-serif;
-  color: yellow;
+  font-family: Verdana, Arial, sans-serif;
+  
+}
+div{
+  border: 5px solid #EDB8AD;
 }
 h2{
   font-family: Arial, sans-serif;
