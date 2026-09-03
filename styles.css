@@ -7,9 +7,9 @@ body{
 }
 div{
   border: 3px solid #EDB8AD;
-  border-radius: 5px;
-  padding: 10px;
-  
+  border-radius: 15px;
+  padding: 20px;
+  margin: 20px;
 }
 h2{
   font-family: Arial, sans-serif;
