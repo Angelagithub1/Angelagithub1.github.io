@@ -12,8 +12,8 @@ div{
   
 }
 #NombreYRol{
-  background-color: #EDB8AD;
-  text-align: right;
+  background-color: #FAAFA0;
+  align-items: center;
   display: flex;
 }
 img{
